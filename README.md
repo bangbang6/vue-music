@@ -1,5 +1,6 @@
 # vue-music
 vue -webapp -music
-# cd 
-# npm install
-# npm run dev
+#启动
+ cd 
+ npm install
+ npm run dev
